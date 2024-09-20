@@ -104,11 +104,12 @@
               <div class="col-lg-6">
                 <ul>
                   <li><i class="bi bi-chevron-right"></i>
-                    <strong>Cumpleaños:</strong> <span>29 May 2001</span>
+                    <strong>Linkedin:</strong> <span><a href="https://www.linkedin.com/in/jesus-omar-ruano-5443b6227"
+                    target="_blank">Jesus Omar Ruano</a></span>
                   </li>
                   <li><i class="bi bi-chevron-right"></i>
                     <strong>Sitio web</strong>
-                    <span><a href="https://jesusomarportafolio.000webhostapp.com/#contact"
+                    <span><a href="https://jesusomardev.github.io/Portafolio-2024/"
                         target="_blank">jesusomarportafolio</a>
                     </span>
                   </li>
@@ -175,8 +176,7 @@
             </div>
 
             <div class="progress">
-              <span class="skill">CSS (B<span style="text-transform: lowercase;">ootstrap)</span><i
-                  class="val">65%</i></span>
+              <span class="skill">CSS (B<span style="text-transform: lowercase;">ootstrap)</span></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100">
                 </div>
@@ -206,10 +206,16 @@
           <div class="col-lg-6">
 
             <div class="progress">
-              <span class="skill">PHP (PHP m<span style="text-transform: lowercase;">ailer, m</span>pdf)<i
-                  class="val">75%</i></span>
+              <span class="skill">PHP (PHP m<span style="text-transform: lowercase;">ailer, m</span>pdf)</span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
+                </div>
+              </div>
+            </div>
+            <div class="progress">
+              <span class="skill">Laravel </span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
                 </div>
               </div>
             </div>
