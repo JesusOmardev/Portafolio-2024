@@ -272,7 +272,7 @@
           <div class="col-lg-6">
             <h3 class="resume-title">Educación</h3>
             <div class="resume-item">
-              <h4>Master "Formación Permanente Dual en Innovación y Tecnología"</h4>
+              <h4>Master Formación Permanente Dual en Innovación y Tecnología</h4>
               <h5>2024 - 2025</h5>
               <p><em>
                   Master realizado en la Univarseidad de  
