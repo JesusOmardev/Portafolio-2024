@@ -14,6 +14,10 @@ body {
   color: #272829;
 }
 
+.sobreSalir{
+  font-size: medium;
+  font-weight: bold ;
+}
 .signup-section {
   padding: 10rem 0;
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000 100%), url("../img/bg-signup.jpg");
@@ -293,8 +297,8 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/portfolio/dino\ \ y\ yo\ sad.png") top right no-repeat;
-  background-size: cover;
+  background: url("../img/portfolio/Yo\ feliz.jpg") top right no-repeat;
+  background-size: contain;
   position: relative;
 }
 
