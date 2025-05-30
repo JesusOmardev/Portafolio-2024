@@ -69,7 +69,7 @@ He trabajado en diversos sectores, banca, logistica, infraestructura en nube, lo
 
 ## 📬 Contacto
 
-Si deseas saber más o colaborar en algún proyecto, no dudes en escribirme a través del [formulario de contacto](#https://jesusomardev.github.io/Portafolio-2024/) o vía [LinkedIn](#https://www.linkedin.com/in/jesus-omar-ruano-5443b6227/).
+Si deseas saber más o colaborar en algún proyecto, no dudes en escribirme a través del [formulario de contacto](https://jesusomardev.github.io/Portafolio-2024/) o vía [LinkedIn](https://www.linkedin.com/in/jesus-omar-ruano-5443b6227/).
 
 ---
 
